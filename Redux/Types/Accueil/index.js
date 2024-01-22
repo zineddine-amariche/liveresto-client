@@ -1,0 +1,5 @@
+
+export const GET_POSITION = 'GET_POSITION'
+export const UPDATE_RECENT = 'UPDATE_RECENT'
+export const SET_USER_GUID = 'SET_USER_GUID'
+export const SET_USER_GUID_TRUE = 'SET_USER_GUID_TRUE'

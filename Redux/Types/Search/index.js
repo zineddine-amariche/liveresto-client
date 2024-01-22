@@ -1,0 +1,8 @@
+export const SET_RECENTS = 'SET_RECENTS'
+export const DELETE_RECENTS = 'DELETE_RECENTS'
+export const DELETE_FILTRES = 'DELETE_FILTRES'
+export const SET_TRIER = 'SET_TRIER'
+export const SET_PRICE = 'SET_PRICE'
+export const SET_RESTRICTION = 'SET_RESTRICTION'
+export const SET_CUISINE = 'SET_CUISINE'
+export const SET_RECENTS_VALUES = 'SET_RECENTS_VALUES'
